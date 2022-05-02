@@ -1,11 +1,11 @@
-  =>  Template Name    : CONFER - Consulting Website Template
+  =>  Template Name    : Hemanoid - Consulting Website Template
 
-  =>  Template Link    : https://htmlcodex.com/consulting-website-template-free
+  =>  Template Link    : https://hemanoid.in/consulting-website-template-free
 
-  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+  =>  Template License : https://hemanoid.in/license (or read the LICENSE.txt file)
 
-  =>  Template Author  : HTML Codex
+  =>  Template Author  : Hemanoid Pvt Ltd
 
-  =>  Author Website   : https://htmlcodex.com
+  =>  Author Website   : https://hemanoid.in
 
-  =>  About HTML Codex : HTML Codex is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://htmlcodex.com/about-us )
+  =>  About Hemanoid Pvt Ltd : Hemanoid Pvt Ltd is one of the top creators and publishers of Free HTML templates, HTML landing pages, HTML email templates and HTML snippets in the world. Read more at ( https://hemanoid.in/about-us )
